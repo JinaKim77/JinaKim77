@@ -27,6 +27,6 @@ My name is Jina Kim and I am a graduate software developer.
 
 [<img align="left" alt="JinaKim77 | LinkedIn" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-256.png" />][LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/jina-kim-software-development/]
+[LinkedIn]: https://www.linkedin.com/in/jina-kim-software-development/
 
 
